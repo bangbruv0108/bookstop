@@ -1,2 +1,2 @@
 # bookstop
-E-Commerce site using core PHP and AJAX.
+E-Commerce site using core PHP.
